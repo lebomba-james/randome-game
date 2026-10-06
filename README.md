@@ -1,2 +1,3 @@
-# randome-game
-a game I made
+# cool games
+multiple mini games for fun
+
